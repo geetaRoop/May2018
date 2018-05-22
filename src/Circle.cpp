@@ -1,5 +1,7 @@
 #include "Circle.h"
 
+//Commited to Github May 21 2018
+
 //--------------------------------------------------------------
 Circle::Circle() {
     location = ofPoint(ofRandomWidth(), ofRandomHeight());
